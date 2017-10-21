@@ -2,6 +2,7 @@
   "name": "fetch-headers",
   "version": "1.0.0",
   "description": "Micro service to fetch response headers of a webpage as JSON",
+  "homepage": "https://github.com/jbmoelker/fetch-headers",
   "main": "index.js",
   "scripts": {
     "deploy": "now -e NODE_ENV=production && now alias",
@@ -17,6 +18,10 @@
   ],
   "author": "Jasper Moelker <jasper@voorhoede.nl> (https://voorhoede.nl/)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbmoelker/fetch-headers.git"
+  },
   "dependencies": {
     "micro": "9.0.0",
     "request": "2.83.0",

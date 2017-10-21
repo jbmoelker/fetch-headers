@@ -2,10 +2,16 @@
 
 **Micro service to fetch response headers of a webpage as JSON.**
 
-The only required parameter is the URL of a webpage. The server fetches the given webpage,
-and returns its response headers as JSON.
-
 Demo: [`fetch-headers.now.sh/?url=https://www.voorhoede.nl`](https://fetch-headers.now.sh/?url=https://www.voorhoede.nl).
+
+
+## Parameters
+
+The service can be configured with the following URL query parameters:
+
+Parameter | Description | Example
+--- | --- | ---
+`url` (required) | URL of the web page to fetch headers of. | `url=https://www.voorhoede.nl`
 
 
 ## Development
