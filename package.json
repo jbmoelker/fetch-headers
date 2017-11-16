@@ -1,6 +1,6 @@
 {
   "name": "@jbmoelker/fetch-headers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Micro service to fetch response headers of a webpage as JSON",
   "homepage": "https://github.com/jbmoelker/fetch-headers",
   "main": "index.js",
