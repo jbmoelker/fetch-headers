@@ -1,4 +1,4 @@
-# Fetch headers
+# Fetch headers [![Build Status](https://travis-ci.org/jbmoelker/fetch-headers.svg?branch=master)](https://travis-ci.org/jbmoelker/fetch-headers) [![Coverage Status](https://coveralls.io/repos/github/jbmoelker/fetch-headers/badge.svg?branch=master)](https://coveralls.io/github/jbmoelker/fetch-headers?branch=master) [![npm fetch-headers package](https://img.shields.io/npm/v/@jbmoelker/fetch-headers.svg)](https://npmjs.org/package/@jbmoelker/fetch-headers)
 
 **Micro service to fetch response headers of a webpage as JSON.**
 
